@@ -1,0 +1,30 @@
+.item img {
+  width: 5%;
+  line-height: normal;
+  display: inline-block;
+  vertical-align: middle;
+}
+.frame {
+  line-height: normal;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+  border: 1px solid white;
+  background-color: white;
+  padding: 0 10px 0 10px;
+  border-radius: 15px;
+}
+.item {
+  height: 70px;
+  line-height: 70px;
+}
+.item h6 {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.item h6 img {
+  margin-right: 5px;
+  margin-bottom: 10px;
+  width: 4%;
+}
